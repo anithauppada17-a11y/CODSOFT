@@ -1,4 +1,4 @@
-# CODSOFT Python Programming Internship
+# CODSOFT AI Internship Tasks
 
 **Name:** Anitha Uppada  
 **Batch:** BY25RY285308
